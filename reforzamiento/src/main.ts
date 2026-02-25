@@ -7,7 +7,11 @@ import './style.css'
 // import './bases/07-array-desctructuring'
 //import './bases/t1-destructuring'
 //import './bases/08-import-export'
-import './bases/09.promises'
+// import './bases/09.promises'
+// import './bases/10-fetch-api'
+import './bases/11-async-awit'
+
+
 
 
 
